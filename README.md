@@ -1,6 +1,23 @@
-# profile
+### Hello! My name is Jesus Israel Garcia! Welcome to my github!
 
-### I will add this
+## I'm a musician, artist, and now a Software Developer!
+-
+-
+-
+-
+-
+### Connect with me
+-
+-
+-
+-
+-
+-
+### Languages and Tools:
+-
+-
+-
+-
+-
 
-lets do this thing, lets see if i can add this words in here
- #Next section
+### Blogs
