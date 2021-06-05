@@ -1,4 +1,4 @@
-<h1>         🎸 Hello welcome to my Github! 💻 </h1>
+<h1> 🎸 Hello welcome to my Github! 💻 </h1>
 <hr>
 <img src="./values.png" alt='picture of my values'/>
 <hr>
@@ -6,7 +6,6 @@
         My preferred name is Irael. I'm from Texas and have recently discovered that I have a passion for software development! I have a bachelor's in Mathematics and a background in Business Management. I recently graduated from Flatiron School, which was one of the best decisions I've made in my life. I love solving puzzles and strategically thinking to create solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
     </div>
 <hr>
-<br/>
     🛠 Under construction as a Software Developer.
 <br/>
     🤖 Working on deploying my first app!
@@ -19,9 +18,19 @@
 <hr>
 
 ### Languages and Tools:
-- <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='JavaScript' height='32' width='32'>
--
--
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='HTML' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='CSS' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' alt='Bootstrap' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png' alt='Ruby' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png' alt='Ruby on Rails' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='JavaScript' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' alt='Node.js' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='React.js' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png' alt='Redux.js' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' alt='PostgreSQL' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png' alt='SQL' height='32' width='32'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='Git' height='32' width='32'>
+
 -
 -
 
