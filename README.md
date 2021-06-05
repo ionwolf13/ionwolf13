@@ -1,4 +1,4 @@
-<h1> 🎸 Hello welcome to my Github! 💻 </h1>
+<h1 align='center'> 🎸 Hello welcome to my Github! 💻 </h1>
 <hr>
 <img src="./values.png" alt='picture of my values'/>
 <hr>
@@ -18,7 +18,7 @@
 <hr>
 
 ### Languages and Tools:
-<div>
+<div align='center'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='HTML' height='32' width='32'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='CSS' height='32' width='32'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' alt='Bootstrap' height='32' width='32'>
@@ -32,8 +32,6 @@
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png' alt='SQL' height='32' width='32'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='Git' height='32' width='32'>
 </div>
--
--
 
 ### Blogs
 
