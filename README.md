@@ -1,5 +1,5 @@
-### <h1>         🎸 Hello welcome to my Github! 💻 </h1>
-
+<h1>         🎸 Hello welcome to my Github! 💻 </h1>
+<hr>
 <img src="./values.png" alt='picture of my values'/>
 <hr>
     <div>
@@ -16,7 +16,7 @@
     😁 Love to play video games, play the guitar/piano, draw and Code! 🥵
 <br>
     😊 Feel free to reach out!
--
+<hr>
 
 ### Languages and Tools:
 -
@@ -29,14 +29,15 @@
 
 
 ### Connect with me
-<br>
-- LinkedIn
-<br>
-- Medium
-<br>
-- Portfolio
-<br>
-- Twitter
-<br>
-- Email
--
+<div>
+    <br>
+    - LinkedIn
+    <br>
+    - Medium
+    <br>
+    - Portfolio
+    <br>
+    - Twitter
+    <br>
+    - Email
+</div>
