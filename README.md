@@ -1,18 +1,12 @@
-### Hello! My name is Jesus Israel Garcia! Welcome to my github!
-
+### 🎸 Hello welcome to my Github! 💻
+<img src="./values.png" alt='picture of my values'>
 ## I'm a musician, artist, and now a Software Developer!
+    🛠 Under construction as a Software Developer.
+    -Working on deploying my first app!
+    - 
 -
 -
--
--
--
-### Connect with me
--
--
--
--
--
--
+
 ### Languages and Tools:
 -
 -
@@ -21,3 +15,12 @@
 -
 
 ### Blogs
+
+
+### Connect with me
+-
+-
+-
+-
+-
+-
