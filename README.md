@@ -19,8 +19,9 @@
     😊 Feel free to reach out!
 <hr>
 
-### Languages and Tools:
+
 <div align='center'>
+<h2> Languages and Tools: </h2>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='HTML' height='32' width='32'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='CSS' height='32' width='32'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' alt='Bootstrap' height='32' width='32'>
@@ -35,11 +36,14 @@
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='Git' height='32' width='32'>
 </div>
 
-### Blogs
+<div align='center'>
+    <h2>Blogs</h2>
+</div>
 
 
 ### Connect with me
-<div>
+<div align='center'>
+    <h2> Connect with me!</h2>
     <br>
     - LinkedIn
     <br>
