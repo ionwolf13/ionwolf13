@@ -22,7 +22,7 @@
 </div>
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionwolf13&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionwolf13&theme=react&show_icons=true&card_width=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
    
