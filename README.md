@@ -15,6 +15,7 @@
 <hr>
 <img src="./values.png" alt='picture of my values'/>
 <div>
+<hr>
 <div>
  🛠 Under construction as a Software Developer.
 <br/>
@@ -51,7 +52,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionwolf13&theme=react&show_icons=true&card_width=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionwolf13&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionwolf13&theme=react&card_width=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
