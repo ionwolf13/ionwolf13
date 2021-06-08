@@ -57,6 +57,9 @@
     <a href="mailto:jeisgar13@gmail.com?subject=Hello%20Avelon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target-"_blank" href="https://app.slack.com/client/T02MD9XTF/D01B48MCUR1"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<div>
+    <img src='./personallogoblack.png'alt='my personal logo' />
+</div>
 </div>
 
 
