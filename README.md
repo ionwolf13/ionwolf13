@@ -1,8 +1,8 @@
 <div align='center'>
 <h1> 🎸 Hello welcome to my Github! 💻 </h1>
 <div>
-    <img src='./personallogoblack.png'alt='my personal logo' height='200'/>
-    <img src="./values.png" alt='picture of my values' height='200'/>
+<!--     <img src='./personallogoblack.png'alt='my personal logo' height='200'/> -->
+    <img src="./values.png" alt='picture of my values' height='250'/>
 </div>
 
 
