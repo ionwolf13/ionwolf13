@@ -11,7 +11,7 @@
 </div>
 <hr>
     <div align='center'>
-            My name is Jesus, I'm from Texas and have recently discovered that I have a passion for software development! I have a bachelor's in Mathematics and a background in Business Management. I recently graduated from Flatiron School, which was one of the best decisions I've made in my life. I love solving puzzles and strategically thinking to create solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
+            My name is Israel and have recently discovered that a passion for software development! I have a bachelor's in Mathematics and a background in Management. I recently graduated from Flatiron School. I love solving puzzles and strategically thinking to create solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
     </div>
 <div>
 <hr>
