@@ -11,16 +11,14 @@
 </div>
 <hr>
     <div align='center'>
-            My name is Israel and have recently discovered that a passion for software development! I have a bachelor's in Mathematics and a background in Management. I recently graduated from Flatiron School. I love solving puzzles and strategically thinking to create solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
+            My name is Jesus and I am a Software Developer! I have a bachelor's in Mathematics with a Minor in Computer Science and a background in Management. I graduated from Flatiron School Bootcamp, which started it all! I love solving puzzles and thinking strategically to find solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
     </div>
 <div>
 <hr>
 <div>
- 🛠 Under construction as a Software Developer.
+ 🛠 Under construction as a FULL STACK Software Developer and  ARCHITECT.
 <br/>
-    🤖 Working on deploying my first app!
-<br>    
-    🤯 Currently learning React Redux, OmniAuth and Devise 
+    🤖 Working on expanding my knowledge!
 <br>
     😁 Love to play video games, play the guitar/piano, draw and Code!
 <br>
