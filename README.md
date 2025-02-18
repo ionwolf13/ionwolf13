@@ -11,12 +11,11 @@
 </div>
 <hr>
     <div align='center'>
-            My name is Jesus and I am a Software Developer! I have a bachelor's in Mathematics with a Minor in Computer Science and a background in Management. I graduated from Flatiron School Bootcamp, which started it all! I love solving puzzles and thinking strategically to find solutions. I am a science enthusiast, escpecially in the fields of physics and psychology. 
+            A highly motivated and results-oriented Software Engineer with a proven track record of revitalizing legacy systems and developing innovative front-end solutions. My experience at EOG Resources, a leading oil and gas company, showcases my ability to collaborate with cross-functional teams, analyze complex workflows, and deliver impactful improvements to mission-critical applications. Proficient in modern JavaScript frameworks like React and Redux, as well as Ruby on Rails, I bring a strong understanding of both front-end and back-end development. My background also includes experience in business operations management, allowing me to effectively bridge the gap between technical solutions and business needs. I am passionate about leveraging analytical and mathematical principles to enhance productivity and bring a creative approach to problem-solving, influenced by my musical and artistic pursuits. Adept at team leadership and building consensus, I am eager to contribute to a forward-thinking organization.
     </div>
 <div>
 <hr>
 <div>
- 🛠 Under construction as a FULL STACK Software Developer and  ARCHITECT.
 <br/>
     🤖 Working on expanding my knowledge!
 <br>
